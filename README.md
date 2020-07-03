@@ -9,3 +9,5 @@ https://www.securityweek.com/china-linked-threat-actor-using-new-backdoor
 https://www.bleepingcomputer.com/news/security/hacking-group-builds-new-ketrum-malware-from-recycled-backdoors/
 
 https://www.securityweek.com/chinese-hackers-target-uyghurs-multiple-android-surveillance-tools
+
+https://www.zdnet.com/article/connection-discovered-between-chinese-hacker-group-apt15-and-defense-contractor/
