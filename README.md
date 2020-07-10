@@ -11,3 +11,5 @@ https://www.bleepingcomputer.com/news/security/hacking-group-builds-new-ketrum-m
 https://www.securityweek.com/chinese-hackers-target-uyghurs-multiple-android-surveillance-tools
 
 https://www.zdnet.com/article/connection-discovered-between-chinese-hacker-group-apt15-and-defense-contractor/
+
+https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf%5C
