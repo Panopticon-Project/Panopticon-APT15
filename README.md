@@ -13,3 +13,5 @@ https://www.securityweek.com/chinese-hackers-target-uyghurs-multiple-android-sur
 https://www.zdnet.com/article/connection-discovered-between-chinese-hacker-group-apt15-and-defense-contractor/
 
 https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf%5C
+
+https://www.darkreading.com/threat-intelligence/microsoft-seizes
