@@ -15,3 +15,17 @@ https://www.zdnet.com/article/connection-discovered-between-chinese-hacker-group
 https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf%5C
 
 https://www.darkreading.com/threat-intelligence/microsoft-seizes
+
+http://www.spywareremove.com/removeokrum.html
+
+http://www.spywareremove.com/removeroyaldns.html
+
+https://www.scmagazine.com/home/security-news/cybercrime/eset-researchers-linked-the-ke3chang-apt-group-to-the-newly-discovered-okrum-backdoor-showing-the-group-is-still-active-and-improving-its-code/
+
+http://www.spywareremove.com/removeketrican.html
+
+https://malwaretips.com/threads/new-okrum-malware-used-by-ke3chang-group-to-target-diplomats.93827/
+
+https://stewilliams.com/member-ke3chang-theyre-still-at-it-you-know-euro-diplomats-targeted-by-china-based-hacker-crew/
+
+https://www.cyberscoop.com/ke3chang-slovakia-hacks-eset-china/
