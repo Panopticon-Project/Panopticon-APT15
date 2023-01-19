@@ -29,3 +29,5 @@ https://malwaretips.com/threads/new-okrum-malware-used-by-ke3chang-group-to-targ
 https://stewilliams.com/member-ke3chang-theyre-still-at-it-you-know-euro-diplomats-targeted-by-china-based-hacker-crew/
 
 https://www.cyberscoop.com/ke3chang-slovakia-hacks-eset-china/
+
+https://unit42.paloaltonetworks.com/playful-taurus/
